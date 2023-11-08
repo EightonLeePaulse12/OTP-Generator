@@ -44,3 +44,10 @@ h1{
 .pin{
     padding-top:40px;
 }
+
+@media (width < 321px){
+    h1{
+        font-size:20px;
+        padding:30px;
+    }
+}
